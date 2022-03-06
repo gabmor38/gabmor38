@@ -3,7 +3,7 @@
 
 Hey there 👋
 
-I'm Gabriela Moreno, a Business Analyst pivoting into Web Development. I recently gratuated from a Web development program with Lighhouse Labs. I have self taught myself HTML, CSS, and SQL prior to enrolling in school for Web development. I have a passion for building user interfaces.
+I'm Gabriela Moreno, a Business Analyst pivoting into Web Development. I recently gratuated from a Web development program with Lighhouse Labs. Prior to enrolling into Web development I self taugh myself HTML, CSS and SQL. I have a passion for building user interfaces.
 
 <p> 🔭 I’m currently working on revamping react fitness.</p>
 <p> 💬 Ask me about Javascript and React</p>
