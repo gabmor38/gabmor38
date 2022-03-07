@@ -13,7 +13,7 @@ I'm Gabriela Moreno, a Business Analyst pivoting into Web Development. I recentl
 ### Connect with me:
 
 <a href="mailto:gabriela.morenor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="www.linkedin.com/in/gabriela-moreno-a947a849"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/gabriela-moreno-a947a849/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 
 <!--
