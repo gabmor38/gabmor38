@@ -7,7 +7,7 @@ I'm Gabriela Moreno, a Web Developer with a background in Business Analysis. I g
 
 <p> 🔭 I’m currently working with SharePoint Frameworks SPFX ReactJS.</p>
 <p> 💬 Ask me about Javascript and React.</p>
-<p> 🌱 I’m currently learning how to build Azure Function Apps with C#.</p>
+<p> 🌱 I’m currently learning Python and Azure Function Apps with C#.</p>
 
 ### Connect with me:
 
